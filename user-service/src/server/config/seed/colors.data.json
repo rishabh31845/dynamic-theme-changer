@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Red",
+    "type": "primary",
+    "code": "#FF0000"
+  },
+  {
+    "name": "Cyan",
+    "type": "primary",
+    "code": "#00FFFF"
+  },
+  {
+    "name": "Blue",
+    "type": "primary",
+    "code": "#0000FF"
+  },
+  {
+    "name": "Purple",
+    "type": "primary",
+    "code": "#800080"
+  },
+  {
+    "name": "Yellow",
+    "type": "primary",
+    "code": "#FFFF00"
+  },
+  {
+    "name": "Lime",
+    "type": "primary",
+    "code": "#00FF00"
+  },
+  {
+    "name": "Pink",
+    "type": "primary",
+    "code": "#FFC0CB"
+  },
+  {
+    "name": "Orange",
+    "type": "primary",
+    "code": "#FFA500"
+  },
+  {
+    "name": "Green",
+    "type": "primary",
+    "code": "#008000"
+  }
+]

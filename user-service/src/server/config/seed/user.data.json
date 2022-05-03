@@ -1,0 +1,42 @@
+[
+  {
+    "name": "User 1",
+    "emailId": "user_1@sapiens.com",
+    "userConfiguration": [
+      {
+        "configKey": "primary_theme_color",
+        "configValue": "#FF0000"
+      }
+    ]
+  },
+  {
+    "name": "User 2",
+    "emailId": "user_2@sapiens.com",
+    "userConfiguration": [
+      {
+        "configKey": "primary_theme_color",
+        "configValue": "#FF0000"
+      }
+    ]
+  },
+  {
+    "name": "User 3",
+    "emailId": "user_3@sapiens.com",
+    "userConfiguration": [
+      {
+        "configKey": "primary_theme_color",
+        "configValue": "#FF0000"
+      }
+    ]
+  },
+  {
+    "name": "User 4",
+    "emailId": "user_4@sapiens.com",
+    "userConfiguration": [
+      {
+        "configKey": "primary_theme_color",
+        "configValue": "#FF0000"
+      }
+    ]
+  }
+]
