@@ -1,5 +1,5 @@
 {
-  "name": "calorie-tracker",
+  "name": "user service",
   "version": "1.0.0",
   "description": "This service handles user",
   "main": "index.js",

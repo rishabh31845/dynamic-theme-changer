@@ -3,28 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@babel/preset-env": "^7.16.11",
-    "@babel/preset-react": "^7.16.7",
-    "@styled-system/theme-get": "^5.1.2",
-    "@testing-library/jest-dom": "^5.16.3",
-    "@testing-library/react": "^12.1.4",
-    "@testing-library/user-event": "^13.5.0",
     "antd": "^4.19.5",
     "axios": "^0.26.1",
     "babel-jest": "^27.5.1",
     "core-js": "^3.22.1",
-    "enzyme-to-json": "^3.6.2",
     "jest": "^27.5.1",
-    "jest-sonar-reporter": "^2.0.0",
     "jest-styled-components": "^7.0.8",
-    "jwt-decode": "^3.1.2",
     "moment": "^2.29.3",
     "prop-types": "^15.8.1",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.0",
-    "react-test-renderer": "^18.0.0",
     "styled-components": "^5.3.5",
     "styled-system": "^5.1.5",
     "web-vitals": "^2.1.4"
@@ -54,14 +44,9 @@
       "last 1 safari version"
     ]
   },
-  "jestSonar": {
-    "reportPath": "coverage",
-    "reportFile": "clover.xml",
-    "indent": 4
-  },
   "devDependencies": {
-    "enzyme": "^3.11.0",
-    "enzyme-adapter-react-16": "^1.15.2",
-    "jest-enzyme": "^7.1.2"
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-react": "^7.16.7",
+    "@styled-system/theme-get": "^5.1.2"
   }
 }
